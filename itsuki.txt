@@ -1,0 +1,5 @@
+os centos
+apache 
+php
+My sql 
+WordPress
