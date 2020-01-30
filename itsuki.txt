@@ -1,5 +1,5 @@
-CentOS8
-Apache 
+CentOS7.7ミニマム
+Apache 2.4.6
 php
 Mysql
 WordPress
