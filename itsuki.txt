@@ -1,5 +1,5 @@
-os centos
-apache 
+CentOS8
+Apache 
 php
-My sql 
+Mysql
 WordPress
